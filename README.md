@@ -1,1 +1,3 @@
-![Data Analyst](https://github.com/GitMBNavarrito/Maria-Belen-Navarro-Herdoiza/blob/main/images.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GitMBNavarrito/GitMBNavarrito/main/images.jpg" width="100%">
+</p>
