@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GitMBNavarrito/GitMBNavarrito/main/images.jpg" width="100%">
+  <img src="https://github.com/GitMBNavarrito/GitMBNavarrito/blob/main/what-is-data-analyst.jpg" width="100%">
 </p>
